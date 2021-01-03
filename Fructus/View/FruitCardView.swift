@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct FruitCardView: View {
-    //MARK: - PROPERTIES
     
     var fruit: Fruit
     
